@@ -1,5 +1,5 @@
 # Supply-Chain-Optimization-for-Nano-Stores
-##1. Project Overview
+1. Project Overview
 This project aims to create a digital platform for nano stores (small retail units) globally, providing tailored support, initiatives, and resources to enhance their operations and growth. The focus is on building an easy-to-use website that caters to the unique needs of nano store stakeholders, regardless of their geographical location.
 
 ##2. Data Collection and Cleaning
